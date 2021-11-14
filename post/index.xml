@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Caleb Ballard</title>
+    <link>https://calebbal.github.io/Caleb_Portfolio2/post/</link>
+    <description>Recent content in Projects on Caleb Ballard</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Nov 2021 12:00:00 -0500</lastBuildDate><atom:link href="https://calebbal.github.io/Caleb_Portfolio2/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 3: Problem Organizer Using Linked Lists</title>
+      <link>https://calebbal.github.io/Caleb_Portfolio2/post/project-3/</link>
+      <pubDate>Fri, 30 Jul 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://calebbal.github.io/Caleb_Portfolio2/post/project-3/</guid>
+      <description>Created an algorithm that organizes a list of problems with the commands given using linked lists. Reads an input file that has a list of problems with their ID, Name, and level of difficulty. Sorted each problem using linked lists. Read in commands for adjusting the list of problems from another input file. Printed out the final sorted list after all the commands were executed.     Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Message Decoder</title>
+      <link>https://calebbal.github.io/Caleb_Portfolio2/post/project-2/</link>
+      <pubDate>Sun, 25 Jul 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://calebbal.github.io/Caleb_Portfolio2/post/project-2/</guid>
+      <description>Created an algorithm that decodes messages with the commands given from an input file. Reads in a coded message and all the commands from an input file. Sorted all the commands based on the priority level given in the input file. Any commands with a higher priority before the coded message was read is disregarded. Printed the decoded message to an output file once all commands have been read.    Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Shortest Amount of Moves to Win</title>
+      <link>https://calebbal.github.io/Caleb_Portfolio2/post/project-1/</link>
+      <pubDate>Wed, 21 Jul 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://calebbal.github.io/Caleb_Portfolio2/post/project-1/</guid>
+      <description>Created an algorithm that finds the shortest amount of moves it would take to reach 2048. Reads a matrix of numbers from an input file and the number of non-zero numbers in the matrix. Program generates random moves until 2048 is reached or all the non-zero numbers have been added and then outputs shortest path. Designed the program to keep 2048 stationary if 2048 was read in from the matrix input file.</description>
+    </item>
+    
+  </channel>
+</rss>
